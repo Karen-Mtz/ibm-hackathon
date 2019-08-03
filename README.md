@@ -2,4 +2,4 @@
 
 ARQUITECTURA
 
-![ARQUITECTURA](https://ibb.co/7Cgtkf5)
+![](https://ibb.co/7Cgtkf5)
