@@ -1,5 +1,11 @@
 ## IBM WEEK HACKATHON
 
+**PRESENTACIÓN:** https://docs.google.com/presentation/d/1HPD8TgErBo0Am-Vt_Nkp09VS85zD8wLlJVJ-Y8iwoCU/edit#slide=id.g5e3867c865_3_0
+
+**DEMO CHATBOT**: [chatbot](https://assistant-chat-us-south.watsonplatform.net/web/public/964dfb75-9fed-442c-9661-d0ea068ddc19)
+
+**DEMO VISUAL RECOGNITION:** [visual recognition](http://analizadortacos-boisterous-quoll.mybluemix.net/)
+
 **SOLUCIÓN**
 
 Diseñar un dashboard en donde se aloje la base de datos del inventario de los nuevos productos; visualizar las ventas; y vincular con SAER para efectuar las cotizaciones. Para agilizar la categorización de los productos, utilizaremos inteligencia artificial para capturar la imagen de los productos y éstas puedan registrarse de manera automática a la base de datos del inventario para disminuir el tiempo de clasificación.
