@@ -6,7 +6,6 @@ Diseñar un dashboard en donde se aloje la base de datos del inventario de los n
 
 <a href="https://ibb.co/zffDHHM"><img src="https://i.ibb.co/Hgg3ppS/Roadmap-de-soluci-n.png" alt="Roadmap-de-soluci-n" border="0"></a>
 
-**SECURITY ROAD MAP**
 <a href="https://ibb.co/gZxWxXz"><img src="https://i.ibb.co/k2tDtrQ/Roadmap-seguridad.png" alt="Roadmap-seguridad" border="0"></a>
 
 **ARQUITECTURA**
