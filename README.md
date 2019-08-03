@@ -1,4 +1,5 @@
 ## IBM WEEK HACKATHON
 
 ARQUITECTURA
-![ARQUITECTURA](https://drive.google.com/open?id=1pUQYfA88YeICy1jMzh6DL81eJQNpWVBE)
+
+![ARQUITECTURA](https://ibb.co/7Cgtkf5)
