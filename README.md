@@ -2,4 +2,4 @@
 
 ARQUITECTURA
 
-![ARQUITECTURA](http://i68.tinypic.com/ab12xt.jpg)
+![ARQUITECTURA](https://ibb.co/7Cgtkf5)
